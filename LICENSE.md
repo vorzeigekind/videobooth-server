@@ -14,7 +14,7 @@ Co-Creator & Junior Dev. @ Vorzeigekind
   
   
 ## Product Name
-Videobooth Web Socket Server  
+Videobooth Server  
   
   
 ## Prodcut License
