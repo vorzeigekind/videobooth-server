@@ -1,4 +1,5 @@
-# Vorzeigekind · Commercial Standard License
+# VZK CS-License
+## Vorzeigekind · Commercial Standard License
 
 ## Copyright Owners
 Vorzeigekind GmbH  
