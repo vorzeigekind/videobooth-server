@@ -2,13 +2,13 @@
     "name": "Videobooth-Server",
     "version": "1.0.0",
     "description": "Server running a web socket allowing clients to connect to videobooth",
-    "main": "videobooth.js",
+    "main": "main.js",
     "author": "Vorzeigekind GmbH, Niklas Meyer, Alexander Hesse",
     "license": "VZK CS-License",
     "private": false,
     "scripts": {
-      "start": "node ./videobooth.js",
-      "dev": "NODE_ENV=development PORT=5000 node ./videobooth.js"
+      "start": "node ./main.js",
+      "dev": "NODE_ENV=development PORT=5000 node ./main.js"
     },
     "engines": {
       "node": ">=8.9.0"
