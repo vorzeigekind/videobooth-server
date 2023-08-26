@@ -1,9 +1,9 @@
 {
-    "name": "Videobooth Server",
+    "name": "Videobooth-Server",
     "version": "1.0.0",
     "description": "Server running a web socket allowing clients to connect to videobooth",
     "main": "videobooth.js",
-    "author": "Vorzeigekind GmbH: Niklas Meyer & Alexander Hesse",
+    "author": "Vorzeigekind GmbH, Niklas Meyer, Alexander Hesse",
     "license": "VZK CS-License",
     "private": false,
     "scripts": {
